@@ -1,0 +1,48 @@
+h1 {color: blueviolet; }
+h2 {color:darkgoldenrod; }
+h3 {color: blueviolet; }
+h4 {color: plum}
+.intro {
+  background-color: lightpink;
+  color: black;
+  padding: 10px;
+}
+.background {
+  background-color: blueviolet;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.page {
+  background-color: lightyellow;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+.points {
+  background-color: lavenderblush;
+  color: black;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+.subintro {
+  background-color: lightcoral;
+  color: white;
+  padding: 10px;
+}
+.fact {
+  background-color: peachpuff;
+  color: black;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
